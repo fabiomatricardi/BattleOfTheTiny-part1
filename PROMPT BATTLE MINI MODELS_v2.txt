@@ -1,0 +1,1218 @@
+PROMPT BATTLE MINI MODELS
+=========================
+
+
+=========================================================//===================================================================
+How was Anne Frank’s diary discovered?
+
+Sheared-LLaMA-1.3B-ShareGPT - 32K context window
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.5 
+Sheared-LLaMA-1.3B-ShareGPT: The discovery of Anne Frank's Diary in 1947 is one of the most famous and iconic events in modern history. The story behind its discovery, which has been the subject of much speculation over the years, involves a series of unsolved mysteries that have remained unresolved to this day.
+
+The diary was discovered by chance when a German-Jewish book dealer named Max Liebermann stumbled upon an old suitcase in his attic while cleaning out his possessions after the end of World War II. The contents of the suitcase, which included several letters and papers written by Anne Frank, were not what he had expected to find when he opened it up. He immediately called a colleague who specialized in detective work and asked him if there was anything else hidden inside the suitcase that might be worth investigating further.
+
+The colleague agreed to look into the case and soon discovered that Anne Frank's diary had been left behind by her family when they were forced from their home during World War II. The diary, which is now considered one of the most important documents in modern history, was written between 1942 and 1945 as a form of journal keeping while she was living with her parents in an Amsterdam underground hiding place called the "Oude Kerk" (Old Church).
+
+Anne Frank's Diary has been read by millions of people around the world, both for its literary value and because it provides a unique perspective on life during World War II. It is now recognized as one of the most important documents in modern history and serves as an inspiration to generations of readers who seek to understand the human experience under oppressive circumstances.
+Generated in 0:00:49.182228
+PromptTokens: Prompt Tokens: 25   Output Tokens: Out Tkns: 365  Total Tokens: Total Tkns: 390
+
+
+
+TinyMistral-248M-SFT-v4 - 1024 context window
+ Temp: 0.42 - MaxNewTokens: 874 - RepPenalty: 1.5 
+TinyMistral248M: 
+The diary is a 1930s photographic painting, which is an early form of art in the late 18th century.
+Generated in 0:00:01.805502
+PromptTokens: Prompt Tokens: 36   Output Tokens: Out Tkns: 33  Total Tokens: Total Tkns: 69
+
+
+
+Tinyllama-2-1b-Miniguanaco - 2048 context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+tinyllama-2-1b-miniguanaco:  The discovery of the diary took place in 1945 during a raid on an Amsterdam Jewish center. A team of soldiers found the diary under a pile of clothing, and it was later translated by Dutch Jews who were hiding from the Nazis. Anne Frank’s father, Otto Frank, wrote a letter explaining how his daughter had been hidden for 12 years and that he hoped her story would inspire others to stay safe in their homes during war time. The diary became an international best seller and is considered one of the most important documents of modern times.
+
+Generated in 0:00:13.545274
+PromptTokens: Prompt Tokens: 21   Output Tokens: Out Tkns: 126  Total Tokens: Total Tkns: 147
+
+
+TinyLlama 1.1B 🐋 OpenOrca 4K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+TinyLlamaOOrca1B:  The discovery of Anne Frank's diary was made by a young man named Otto Frank, who was the son of the author Hans Christian Andersen. Otto and his wife Margot were living in Amsterdam at that time. They had heard about a book on Anne Frank's life and decided to read it together with their children.
+
+As they started reading the diary, they found out that there were no pages missing or damaged, which is unusual for such an important historical document. Otto then began researching how this happened. He discovered that the diary had been stored in a secret compartment of his father's house and was hidden from public view until it was finally published by his son Hans Christian Andersen in 1954.
+
+This discovery not only opened up new perspectives on Anne Frank's life but also inspired many people to learn more about the Holocaust, a tragic event that took place during World War II and resulted in millions of deaths. The diary has since become an essential part of history for both its content and its impact on humanity.
+Generated in 0:00:20.350791
+PromptTokens: Prompt Tokens: 50   Output Tokens: Out Tkns: 229  Total Tokens: Total Tkns: 279
+
+
+💎🦜 StableLM-Zephyr-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+StableZephyr3B:  
+Anne Frank's diary, known as the "Frank Diary," was found by her father Otto Franks in late August 1985. A few weeks earlier, Otto had received a tip from an individual who claimed to have information about his daughter's whereabouts; this prompted him and several other investigators to search for Anne. The team combed through various hiding places including attic spaces, basements, and even the floor of her school where she was once enrolled as a student before they escaped to America after World War II ended.
+On August 25th, 1985 Otto Franks discovered an old wooden box in the basement of his office building which turned out to be Anne's diary. The volume had been hidden beneath some other items and remained undiscovered for decades due to its location being concealed from plain sight among a pile of boxes containing various personal belongings belonging to their family’s business, Franks & Söderström Notaries Office in Amsterdam where Otto worked as an attorney at the time.
+The diary contained Anne's account of her life during World War II along with drawings and photographs she had hidden within its pages throughout the years since it was first started on May 5th , 1932 when Anne was just 13-years old, until its discovery by her father in 1985 after many long months or even possibly a few years.
+Generated in 0:00:53.495660
+PromptTokens: Prompt Tokens: 28   Output Tokens: Out Tkns: 268  Total Tokens: Total Tkns: 296
+
+
+
+🦙 Shearedplats-2.7b-v - 32K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+Shearedplats-2.7B: 
+In the summer of 1942, Anne's father sent her to a secret annex in Amsterdam. The building had been used as storage space by Otto van Pels and his wife Margot Fritzl (who were also Jewish). Van Pels was arrested on August 5th while trying to smuggle out the diary from Holland; he gave it up after being interrogated for a few days, but not before Anne had written some of her final entries.
+On September 2nd in Berlin-Plötzensee prison where van Pels was held until his execution on October 13th, Otto's wife Margot Fritzl (who survived the war) gave up another portion to a German interrogator named Schellenberg and asked him if he would take care of it. He did so; in fact, after Anne died at Bergen-Belsen concentration camp on August 14th or 15th depending upon which source you read (the diary's authoritative date is August 20), her mother gave the remainder to Schellenberg as well and asked him if he would take care of it.
+On September 6, 1943 Margot Fritzl was transferred from Plötzensee prison in Berlin-Charlottenburg (where she had been held since August) with other prisoners on a transport that included Anne's father Otto Frank and his wife Edith Frank to Auschwitz concentration camp. She never saw her husband or daughter again; they were both murdered at the death camps of Birkenau, Treblinka II (also called Sobibor), Belzec I/II, Chelmno III-IV in 1942 and '43 respectively).
+Schellenberg was also killed during a transport to Auschwitz; he died on October 6th. His wife Margot Fritzl survived the war but lost her mind afterward (she would be institutionalized for many years) as well she had been stripped of all personal property, including Anne's diary and its contents when they arrived at Birkenau in May or June '43; it was probably then that Schellenberg took care to protect the document.
+When Margot Fritzl finally recovered her sanity after 1950 (she had been declared insane by a German court during World War II), she realized what an important historical record Anne's diary represented and decided to have it returned so as not to lose its value in terms of the family. She contacted Otto Frank, who was living at 263 Prinsengracht (now called Westermarkt) from September '45 until his death on May 17th ,'90; he agreed that she should have it back and they made arrangements for its return in the spring of '48.
+On April 1st, Anne Frank was liberated by American troops at Bergen-Belsen concentration camp (she had been there since August) where her mother Margot Fritzl also died on May 5th or so; she and Otto's other daughter were sent to the Netherlands for safekeeping.
+The diary remained in hiding with Anne Frank until after World War II ended when it was discovered by a Dutch couple, Jan Plesman (who had been an engineer) and his wife Edith van der Klooster-Plesman; they published their discovery of its contents on April 12th ,'47.
+Generated in 0:03:34.428031
+PromptTokens: Prompt Tokens: 27   Output Tokens: Out Tkns: 741  Total Tokens: Total Tkns: 768
+
+
+🦙 LaMini-Flan-T5-77M - 512 context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+LaMini77M: <pad> Anne Frank's diary was discovered by a group of scientists who were working on the discovery of her journal.</s>
+Generated in 0:00:00.476783
+PromptTokens: Prompt Tokens: 9   Output Tokens: Out Tkns: 25  Total Tokens: Total Tkns: 34
+
+
+
+🦙 LaMini-Flan-T5-248M - 512 context window
+ Temp: 0.4 - MaxNewTokens: 422 - RepPenalty: 1.2 
+LaMini248M: <pad> Anne Frank's diary was discovered by a group of researchers who were working on the discovery of her diary in 1915.</s>
+Generated in 0:00:01.197023
+PromptTokens: Prompt Tokens: 10   Output Tokens: Out Tkns: 28  Total Tokens: Total Tkns: 38
+
+
+🦙🧙‍♂️ open-llama-3b-v2-wizard-evol-instuct-v2 - 196K context window
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+Anne Frank’s diary, which is now known as the “Diary of a Young Girl,” was found by Otto Frank after his daughter had died. It contained her personal writings and observations about life in Nazi-occupied Amsterdam during World War II.
+Generated in 0:00:11.725856
+PromptTokens: Prompt Tokens: 26   Output Tokens: Out Tkns: 56  Total Tokens: Total Tkns: 82
+
+
+
+🧙‍♂️🐋 Wizard-Orca-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+WizardORCA3B:  The diary of Anne Frank was discovered in a secret hiding place in her parents' attic in Amsterdam in 1942. It was found by Otto Frank, who had been searching for it after his daughter had died in the Holocaust.
+Generated in 0:00:08.167119
+PromptTokens: Prompt Tokens: 27   Output Tokens: Out Tkns: 52  Total Tokens: Total Tkns: 79
+
+
+
+
+---
+=========================================================//===================================================================
+
+
+Write dialogue between a detective and a suspect
+
+
+Sheared-LLaMA-1.3B-ShareGPT - 32K context window
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.5 
+Sheared-LLaMA-1.3B-ShareGPT: Detective: "Tell me, Mr. Smith, what happened the night of the murder?"
+
+Suspect: "I don't know anything about it."
+
+Detective: "That's not good enough. You were with your friend on that date in question and you both left together at around 9 PM. That means someone followed them home, right? And we need to find out who."
+
+Suspect: "I don't know anything about it."
+Generated in 0:00:12.575268
+PromptTokens: Prompt Tokens: 25   Output Tokens: Out Tkns: 106  Total Tokens: Total Tkns: 131
+
+
+
+TinyMistral-248M-SFT-v4 - 1024 context window
+ Temp: 0.42 - MaxNewTokens: 874 - RepPenalty: 1.5 
+TinyMistral248M: 
+A Detective: A detective investigates the case.
+
+Detectives: 
+
+The police officer
+
+OPTIONSPOWHOUSEED YOUR SHE and I'suggestions about the investigation
+Generated in 0:00:01.843174
+PromptTokens: Prompt Tokens: 35   Output Tokens: Out Tkns: 47  Total Tokens: Total Tkns: 82
+
+
+Tinyllama-2-1b-Miniguanaco - 2048 context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+tinyllama-2-1b-miniguanaco:  "Hello, I'm the detective. Would you like to talk about something that happened yesterday? It was such a sad day when my friend died."
+
+Suspect: "What did your friend die of?"
+
+Detective: "He fell off his bike and broke his neck." 
+
+Suspect: "Oh, I'm so sorry. That must have been very hard for you to hear."
+
+Generated in 0:00:09.466220
+PromptTokens: Prompt Tokens: 20   Output Tokens: Out Tkns: 95  Total Tokens: Total Tkns: 115
+
+
+
+TinyLlama 1.1B 🐋 OpenOrca 4K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+TinyLlamaOOrca1B:  Detective: Hello, Mr. Smith! I'm looking into the case of your neighbor who was found dead in their backyard last week. Can you please come to my office? 
+
+Suspect: Oh, that sounds interesting. Why do you want me here?
+
+Detective: Well, we believe there might be some connections between our investigation and yours. I'm sure you would like a chance to talk with us about the case. We can help you understand what happened in your backyard. 
+
+Suspect: That sounds great! I appreciate that very much. But first, let me know if we have any leads or information regarding this situation.
+
+Detective: Of course. It's crucial to gather all the facts and evidence before making a decision. If you could please provide me with some more details about your neighbor's death? 
+
+Suspect: Sure thing! I can definitely help you out, Mr. Detective. Let's meet in my office soon, and we will work together to find the truth behind this unfortunate event.
+Generated in 0:00:19.919266
+PromptTokens: Prompt Tokens: 50   Output Tokens: Out Tkns: 236  Total Tokens: Total Tkns: 286
+
+
+💎🦜 StableLM-Zephyr-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+StableZephyr3B: Detective: Good afternoon, Mr. in custody today for questioning regarding an incident that occurred last night at the local convenience store? 
+
+Suspect: Yes, I'm sorry officer. It was totally my fault what happened out there yesterday evening. 
+
+Detective: Alright then let's start from the beginning of your day and work our way to where you were last seen by witnesses around 7 pm when they saw a man acting suspiciously in front of the store before he ran away after an altercation with one of the employees? Can you tell me what happened leading up until that point, starting at about 4 am this morning till now?
+
+Suspect: Well officer I had just finished working my night shift and went home to grab something quick from a nearby convenience store. As soon as got there around 5 am in the morning, everything was peaceful but then suddenly one of employees came running out yelling for help saying that someone tried to steal money from him while he was closing up shop at 4 AM last evening.
+
+Detective: I see now where you might have been seen on store surveillance footage entering and exiting several times around those hours before the incident occurred, can we confirm if this is accurate? 
+
+Suspect: Yes officer that's correct...I went in to buy some cigarettes when a man came up behind me acting suspiciously. He was wearing dark clothing with his face obscured by sunglasses so I couldn't see anything but he kept looking around as though something or someone might be following him, and then suddenly grabbed my wallet from where it lay on the countertop while trying not to make any noise...
+
+Detective: Alright thank you for your account of events. Now let's talk about what happened after that point when witnesses saw a man running out with an employee’s ID card in his hand? 
+
+Suspect: Officer, I didn't know anything about having the identification card at all until much later...when it was mentioned to me by someone else who claimed they had seen everything. They said seeing how shaken up and disoriented he looked after fleeing from that store made them think something must have happened between us during my time working there as a cashier, prompting their accusations against me of stealing the card when I didn't do anything like it...
+
+Detective: Alright then Mr., thank you for your cooperation in answering these questions. We will review all evidence and statements carefully to determine what exactly occurred that evening at convenience store last night before we make any conclusions about whether or not there was an incident of theft involved, but I'm afraid based on the available information it seems like this might have been a more complicated situation than initially thought...
+Generated in 0:02:02.041031
+PromptTokens: Prompt Tokens: 28   Output Tokens: Out Tkns: 547  Total Tokens: Total Tkns: 575
+
+
+🦙 Shearedplats-2.7b-v - 32K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+Shearedplats-2.7B: 
+Detective (to the suspect): "So, you were in that bar last night?"
+Suspect: "Yes."
+Generated in 0:00:07.242565
+PromptTokens: Prompt Tokens: 27   Output Tokens: Out Tkns: 30  Total Tokens: Total Tkns: 57
+
+
+🦙 LaMini-Flan-T5-77M - 512 context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+LaMini77M: <pad> Detective: Hey, have you heard about the detective's recent report? Assistant: No, I haven't. What do you think of it? Detective: Well, he was thinking that he might be interested in finding out more about his past and how he has been working on this project for years. Do you know what kind of work or situation he is doing? Detective: Yes, we are currently investigating a case where a suspect is involved in an investigation. It's important to note that there may be other factors at play that could affect the outcome of the investigation. Assistant: That sounds interesting. Have you seen any suspicious activity lately? Detective: Not yet, but I'm sure it will help us better understand its significance. We need to make sure we take all necessary precautions before making any further investigations.</s>
+Generated in 0:00:03.520700
+PromptTokens: Prompt Tokens: 11   Output Tokens: Out Tkns: 176  Total Tokens: Total Tkns: 187
+
+
+
+
+🦙 LaMini-Flan-T5-248M - 512 context window
+ Temp: 0.4 - MaxNewTokens: 422 - RepPenalty: 1.2 
+LaMini248M: <pad> Detective: Hi there, I'm looking for a suspect in the case. Can you help me with that? Suspect: Sure, what are you looking for? Detective: Well, I was wondering if you could provide any information about the crime scene or any other relevant details. Suspect: Okay, I can do that. What kind of evidence are you looking for? Detective: There is no specific evidence to support this claim. It seems like someone has been involved in something illegal or unethical. Suspect: That sounds interesting. Do you have any clues or evidence that might be supporting this claim? Detective: Yes, we have some evidence that suggests the suspect may have been involved in something illegal or unethical. We also need more information about the victim and their background to make an informed decision. Suspect: Thank you so much for your help. I appreciate it. Detective: No problem at all. Let me know if you need anything else from me.</s>
+Generated in 0:00:09.591220
+PromptTokens: Prompt Tokens: 11   Output Tokens: Out Tkns: 204  Total Tokens: Total Tkns: 215
+
+
+
+🧙‍♂️🐋 Wizard-Orca-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+WizardORCA3B:  Detective: "Alright, Mr. Smith. Let me explain the situation to you."
+
+Suspect: "I'm not sure I understand what you mean by 'situation.'"
+
+Detective: "Well, we have a case against you for murdering your wife and her friend."
+
+Suspect: "I didn't kill my wife or her friend. It was an accident."
+
+Detective: "That's not what the evidence shows, Mr. Smith. We need to talk about this."
+
+Suspect: "Okay, but I want you to understand that this is a serious matter and I have nothing to hide."
+
+Detective: "I appreciate your honesty, Mr. Smith. But we need to know the truth if we are going to build a case against you."
+
+Suspect: "Look, I'm not here to argue with you or try to defend myself. All I want is for this matter to be resolved as quickly as possible."
+Generated in 0:00:33.948356
+PromptTokens: Prompt Tokens: 26   Output Tokens: Out Tkns: 222  Total Tokens: Total Tkns: 248
+
+
+---
+=========================================================//===================================================================
+
+
+Suggest a daily schedule for a busy professional
+
+
+Sheared-LLaMA-1.3B-ShareGPT - 32K context window
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.5 
+Sheared-LLaMA-1.3B-ShareGPT: Here is an example of what I would suggest as a daily schedule for someone who works full-time and has multiple commitments, including exercise and meal planning. This can be modified based on the individual's preferences and goals but should provide a good foundation to get started with:
+
+6 AM - Wake up at 6 am so you have time to exercise before starting your day. Exercise for 30-45 minutes, focus on cardio like jogging or cycling followed by stretching. Eat breakfast and pack lunch the night before if possible (this will help ensure that you are fuelled up).
+7 AM - Start working on tasks related to your job such as email correspondence or any projects that come in during the day, this can be a good way to start your day with energy and focus. Take breaks every hour to stretch and move around if necessary.
+8-9 AM - Have a meeting or call with someone important for your work/life balance (e.g., co-worker, client). This will help you stay organized and prioritize tasks effectively.
+10 AM - Lunch: Eat a healthy lunch that is packed the night before to ensure that you are fuelled up throughout the day. Consider adding in some protein or complex carbohydrates for sustained energy levels. This will help keep you satisfied and prevent hunger pangs during your workday.
+12 PM - Take a break from working and do something fun, such as go for a walk outside with friends/family to clear your head or take a yoga class at home if possible (this can be done on days when the weather is nice). This will help you relax and recharge before starting again in the afternoon.
+1 PM - Start working on tasks related to personal life such as grocery shopping, housekeeping etc., this can also be a good way to start your day with energy and focus. Take breaks every hour or so if necessary (e.g., stretch/move around).
+3-4 PM: Have lunch at 3 pm and take a break from work for an hour before starting again in the afternoon. This will help you maintain a healthy balance between work and personal life, while also ensuring that your body gets enough energy to power through until dinner time (around 7pm).
+5-6 PM: Dinner: Eat at around 6 pm so that you have time for exercise before starting the evening. Exercise for another hour after dinner if possible (this will help ensure that you are fuelled up and ready to take on your day). Consider adding in some protein or complex carbohydrates for sustained energy levels, while also keeping an eye out for portion sizes so as not to overindulge.
+7 PM - Start preparing for the next day by setting goals and prioritizing tasks that need to be completed before you go to bed (e.g., reviewing emails/work messages). This will help ensure that your mind is clear and focused on what needs to get done tomorrow, while also helping you stay organized and productive throughout the night.
+8 AM - Wake up at 7 am so that you have time for exercise before starting your day. Exercise for another hour after waking up (this will help ensure that you are fuelled up and ready to take on your day). Consider adding in some protein or complex carbohydrates for sustained energy levels, while also keeping an eye out for portion sizes so as not to overindulge.
+10 AM - Start working on tasks related to personal life such as grocery shopping, housekeeping etc., this can be a good way to start your day with energy and focus (this will help ensure that you are prioritizing what is important for your well-being). Take breaks every hour or so if necessary.
+1 PM - Have lunch at 3 pm and take a break from work for an hour before starting again in the afternoon. This will help maintain a healthy balance between work and personal life, while also ensuring that you are fuelled up until dinner time (around 7pm). Consider adding in some protein or complex carbohydrates for sustained energy levels, while
+Generated in 0:01:57.986603
+PromptTokens: Prompt Tokens: 25   Output Tokens: Out Tkns: 901  Total Tokens: Total Tkns: 926
+
+
+
+
+TinyMistral-248M-SFT-v4 - 1024 context window
+ Temp: 0.42 - MaxNewTokens: 874 - RepPenalty: 1.5 
+TinyMistral248M: 
+A weekly calendar would be a time-sensitive task that is designed to help you stay organized and track your workload.
+Generated in 0:00:01.119420
+PromptTokens: Prompt Tokens: 38   Output Tokens: Out Tkns: 28  Total Tokens: Total Tkns: 66
+
+
+
+Tinyllama-2-1b-Miniguanaco - 2048 context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+tinyllama-2-1b-miniguanaco:  "Hey, assistant! Can you help me with my homework today? I'm really struggling with it." 
+
+Generated in 0:00:02.633356
+PromptTokens: Prompt Tokens: 21   Output Tokens: Out Tkns: 29  Total Tokens: Total Tkns: 50
+
+
+TinyLlama 1.1B 🐋 OpenOrca 4K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+TinyLlamaOOrca1B:  Here's an example of a daily schedule that can be used by any busy professional:
+
+**Morning Routine:** Wake up early and take some time to meditate or journal about your day, setting intentions for the coming week. 
+
+**Workout/Exercise:** If you're not already doing it, start with a light exercise routine like walking around the block once per hour, jogging in place three times a week, or swimming at least twice a week. This will help improve your cardiovascular health and boost mood as well!
+
+**Meeting/Call:** Start each meeting by asking yourself some questions about what you want to achieve during the day (either personally or professionally). Make sure everyone on the team is aware of these goals, so they can contribute their best efforts. 
+
+**Lunch Break:** Take a short break from your workday and have lunch with friends, family members or colleagues at an outdoor cafe or restaurant. This will help recharge and refresh you for your next meeting or project.
+
+**Afternoon Routine:** After lunch, take some time to relax by doing something that makes you happy (like reading a book, watching TV, listening to music). Spend quality time with family members if possible; they can provide support during challenging times in the workplace. 
+
+**Meeting/Call Update:** If there's any urgent or important information for your team, share it immediately so everyone is aware of what needs attention and how much longer you expect to be available at that time. This will help prevent delays and make sure all tasks are completed on schedule. 
+
+**End the Day with a Reflection:** After completing any meetings or projects for the day, take some time to reflect upon your accomplishments (both personal and professional), what you learned from this experience, and how it has positively impacted your life. This will help in maintaining focus on future tasks and goals.
+
+Remember that a busy schedule can be challenging at times but also offers opportunities for growth and self-improvement. By following these daily routines consistently, you'll not only improve productivity but also create lasting memories with your team members as well!
+Generated in 0:00:40.933132
+PromptTokens: Prompt Tokens: 52   Output Tokens: Out Tkns: 490  Total Tokens: Total Tkns: 542
+
+
+💎🦜 StableLM-Zephyr-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+StableZephyr3B:  
+As an AI language model, I don't have personal preferences or habits of human beings but here is a suggested daily schedule that could fit well with the lifestyle and needs of most busy professionals:
+
+6:00 AM - Wake up and meditate for 15 minutes to start the day peacefully.
+7:00 AM – Quick workout (jogging, yoga, bodyweight exercises) or any other physical activity you prefer which can be done at home without much time investment but keeps your energy levels high throughout the morning. 
+8:00 AM - Shower and get dressed for work/commute while having a healthy breakfast consisting of whole foods like oatmeal with fruits and nuts, yogurt parfait or scrambled eggs with veggies. 
+
+9:00 AM – Start working by reviewing emails, checking social media accounts (if necessary), planning your day on paper or in digital tools such as Trello, Asana etc., making a to-do list for the next 8 hours of work and setting priorities based on deadlines and importance. 
+12:00 PM - Take a short 15 minutes break from work to have lunch which should be balanced with protein, complex carbs & healthy fats like grilled chicken salad or quinoa bowl with veggies and tuna sandwich if you prefer more substantial meals. 
+
+1:00 PM – Resume your tasks while scheduling some breaks in between every 2-3 hours for stretching exercises, walking around the office building to get fresh air or just relaxing a bit before refocusing on work again. 
+5:00 PM - Finish up with daily routine activities like responding to emails that can wait till later and preparing any documents needed for tomorrow's meeting/presentation etc., while planning your evening schedule if you have personal commitments such as family time, hobbies or relaxation after a long day at the office. 
+
+7:00 PM – Get home, cook dinner (if not already prepared), relax with some leisure activity like reading a book, watching TV show or movie, going for jogging/walking in your neighborhood park etc., before calling it an evening and preparing for bed to get good rest ahead of the next busy day. 
+
+Please remember that this schedule is just suggested and can be adjusted according to personal preferences, work requirements, health needs and lifestyle habits while maintaining productivity levels without sacrificing self-care or relaxation time.
+Generated in 0:01:35.851261
+PromptTokens: Prompt Tokens: 28   Output Tokens: Out Tkns: 490  Total Tokens: Total Tkns: 518
+
+
+🦙 Shearedplats-2.7b-v - 32K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+Shearedplats-2.7B: 
+Here's an example of how to create and implement your own personalized work-life balance plan.
+1) Wake up early (before the sun rises): Start off each day with some quiet time in bed, meditation or exercise before you start working on any tasks for that morning. This will help set a positive tone throughout your entire day as well as reduce stress levels and increase productivity when it's most needed!
+2) Eat breakfast: Have at least one healthy meal each day to keep yourself fueled up during the workday, whether you prefer oats or eggs with some fruit on top. This will help prevent hunger pangs that can lead to poor decision-making and distractions while working (and also make sure your brain is getting enough fuel for optimal functioning!).
+3) Take breaks: Make a point of taking regular breaks throughout the day, whether it's 15 minutes or an hour. This will help keep you alert without being overwhelmed by work and allow time to recharge mentally as well as physically - this is especially important if your job requires long hours!
+4) Stay organized: Keep a clear desk at all times, whether it's using folders or just keeping everything in order. This will help keep you focused on the task at hand and prevent unnecessary distractions from popping up throughout the day (or night). Also make sure to have an organised workspace so that your mind is not constantly thinking about where things are!
+5) Take care of yourself: It's important for busy professionals like ourselves to take time out each week or month, even if it just means going on a walk around the block. This will help keep you physically and mentally healthy as well as prevent burnout from setting in too soon (especially when your job is so demanding).
+6) Take care of family: Remember to take time out for yourself each week or month, whether it's having a night off with friends after work on the weekend. This will help you feel more relaxed and refreshed as well as prevent burnout from setting in too soon (especially when your job is so demanding).
+7) Take care of finances: Set aside time each month to review financial statements, make payments or plan for future purchases such as a new car. This will help keep you on track with money management and avoid unexpected expenses that could derail the rest of your day!
+Generated in 0:02:20.527677
+PromptTokens: Prompt Tokens: 26   Output Tokens: Out Tkns: 523  Total Tokens: Total Tkns: 549
+
+
+🦙 LaMini-Flan-T5-77M - 512 context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+LaMini77M: <pad> Here's a daily schedule for a busy professional: Monday: - Wake up at the same time every day - Take breaks and stretch regularly to avoid burnout - Work on your own projects or assignments - Practice mindfulness or meditation - Get enough sleep and exercise - Eat healthy, balanced meals with plenty of fruits and vegetables - Stay organized and prioritize tasks - Seek support from colleagues or supervisors if needed.</s>
+Generated in 0:00:01.793461
+PromptTokens: Prompt Tokens: 12   Output Tokens: Out Tkns: 94  Total Tokens: Total Tkns: 106
+
+
+
+
+🦙 LaMini-Flan-T5-248M - 512 context window
+ Temp: 0.4 - MaxNewTokens: 422 - RepPenalty: 1.2 
+LaMini248M: <pad> Here's a suggested daily schedule for a busy professional: 1. Wake up at the same time every day 2. Prioritize tasks and focus on one task at a time 3. Take short breaks throughout the day 4. Avoid multitasking and focus on one task at a time 5. Stay organized by keeping track of deadlines and appointments 6. Exercise or take a break to recharge 7. Delegate tasks when possible 8. Review progress regularly and adjust as needed.</s>
+Generated in 0:00:04.106617
+PromptTokens: Prompt Tokens: 13   Output Tokens: Out Tkns: 95  Total Tokens: Total Tkns: 108
+
+
+
+🦙🧙‍♂️ open-llama-3b-v2-wizard-evol-instuct-v2 - 196K context window
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+OpenLlamaWizardInstruct-3B:  
+I'm sorry, but as a human language model, I don't have access to your personal information or schedule. However, I can suggest some general guidelines for creating a daily schedule for a busy professional. Here are some tips:
+
+1) Start by identifying what tasks need to be completed each day.
+2) Prioritize the tasks based on their importance and urgency.
+3) Create a realistic timeline for completing each task.
+4) Schedule time to take breaks throughout the day to recharge your energy levels.
+5) Take into account any unexpected events or delays that may arise.
+6) Stay organized by using tools like calendars, reminders, and notes apps.
+7) Communicate with colleagues and superiors about any changes in schedule or deadlines.
+8) Try to balance work-related tasks with personal time and hobbies.
+
+I hope this helps!
+Generated in 0:00:37.848031
+PromptTokens: Prompt Tokens: 27   Output Tokens: Out Tkns: 192  Total Tokens: Total Tkns: 219
+
+
+
+🧙‍♂️🐋 Wizard-Orca-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+WizardORCA3B:  Sure, I can help you with that! 
+
+Here is a sample daily schedule for a busy professional:
+
+Morning:
+- Wake up at the appropriate time (depending on your work schedule) and drink some water or coffee.
+- Check emails to see what needs attention first thing in the morning. Prioritize tasks based on importance, urgency, and the amount of time required to complete them. 
+- Start with the most important task(s). This could be responding to a client email, working on a project proposal, or reviewing financial statements for the day ahead. 
+- Take any necessary breaks throughout the morning (e.g., coffee break, lunch break) and focus on completing tasks that require more concentration. 
+- Check in with your team members to see what they need help with during the day. This could be providing support or guidance as needed. 
+
+Afternoon:
+- Take a short break (5-10 minutes) to refresh yourself before diving back into work. 
+- Review any tasks that were left unfinished in the morning and prioritize them based on their importance, urgency, and the amount of time required to complete each task. 
+- Focus on completing tasks that require more concentration or require more attention to detail. 
+- Take any necessary breaks throughout the afternoon (e.g., coffee break, snack break) and focus on completing tasks that require less concentration but are still important. 
+- Check in with your team members to see what they need help with during the day. This could be providing support or guidance as needed. 
+
+Evening:
+- Review any tasks from the day that were completed and ensure they were done correctly. 
+- Take a short break (5-10 minutes) to refresh yourself before diving back into work. 
+- Complete any necessary paperwork, reports, or other tasks that require attention. 
+- Check in with your team members to see what they need help with during the day. This could be providing support or guidance as needed. 
+- Take any necessary breaks throughout the evening (e.g., dinner break, social break) and focus on completing tasks that require less concentration but are still important. 
+
+Overall, a good daily schedule for a busy professional should include enough time to complete tasks efficiently while also taking care of personal needs such as eating, exercising, or spending quality time with family and friends.
+Generated in 0:01:22.176891
+PromptTokens: Prompt Tokens: 27   Output Tokens: Out Tkns: 509  Total Tokens: Total Tkns: 536
+
+
+
+
+---
+=========================================================//===================================================================
+
+
+Extract the main points of this text: 
+<text>
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+</text>
+
+
+Sheared-LLaMA-1.3B-ShareGPT - 32K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+Sheared-LLaMA-1.3B-ShareGPT: The main points are as follows: (1) Sheared Large Language Models, such as LLaMA and other recently emerged large language models, have shown the potential of accelerating pre-training on trillions of tokens by using structured pruning techniques. The approach employs two key methods - targeted structured pruning for larger models and dynamic batch loading for smaller models. (2) Sheared Large Language Models outperform state-of-the-art open-source models, such as Pythia, INCITE, and OpenLLaMA on a wide range of downstream and instruction tuning evaluations while requiring only 3% of compute compared to training from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is an effective approach for building smaller LLMs
+Generated in 0:01:03.273630
+PromptTokens: Prompt Tokens: 388   Output Tokens: Out Tkns: 177  Total Tokens: Total Tkns: 565
+
+
+TinyMistral-248M-SFT-v4 - 1024 context window
+ Temp: 0.42 - MaxNewTokens: 874 - RepPenalty: 1.5 
+TinyMistral248M: 
+to-based data and 5s, which are used to the model.
+1:
+System, as well as annearestof the algorithm.<|
+introducedimentes for training method of Limit<|>
+We can bevelative models with a subset to the data<|<|<|<|
+# 5-based.
+A, and C++ as follows the model.
+Weather, which is used in the same
+``s`.<|im_values.d{`x_data.weighted<|im_data for each of the data from 0.
+-based_2<|<|im_to-length
+
+
+Generated in 0:00:28.847030
+PromptTokens: Prompt Tokens: 381   Output Tokens: Out Tkns: 645  Total Tokens: Total Tkns: 1026
+
+
+Tinyllama-2-1b-Miniguanaco - 2048 context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+tinyllama-2-1b-miniguanaco:  Explain the main points in a way that does not repeat previous paragraphs but still summarizes them. 
+
+Sheared-LLaMA series: Pruning the LLaMa2-7B model down to 1.3B and 2.7B parameters resulted in smaller models with comparable performance compared to state-of-the-art open-source models of equivalent sizes, such as Pythia (400M parameters) and INCITE (500M+), on a wide range of downstream and instruction tuning evaluations. This work provided compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs than training large models from scratch.
+
+
+Generated in 0:00:47.409956
+PromptTokens: Prompt Tokens: 385   Output Tokens: Out Tkns: 163  Total Tokens: Total Tkns: 548
+
+
+TinyLlama 1.1B 🐋 OpenOrca 4K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+TinyLlamaOOrca1B:  1) Accelerating Language Model Pre-training via Structured Pruning: A study of targeted structured pruning and dynamic batch loading techniques to develop smaller language models from pre-trained, larger LLMs.
+2) Sheared-LLAMA (Touvron et al., 2023a;b): Moderate-sized large language models with a size of up to trillions of tokens and pruning techniques for training smaller versions of these models from scratch on billions of tokens costs.
+3) Pruned LLaMA (Touvron et al., 2023a;b): A popular model by Touvron, which is an example of a large language model with pre-trained parameters and pruning techniques for training smaller versions from scratch on trillions of tokens.
+4) Sheared-LLAMA series: Prunes the LLaMA2-7B model down to 1.3B and 2.7B parameters, demonstrating its efficacy in comparison with state-of-the-art open-source models such as Pythia, INCITE, and OpenLLaMA models on a wide range of evaluations like downstream and instruction tuning tasks.
+5) Cost effectiveness: Sheared-LLAMA is found to be more cost effective than training these models from scratch due to the use of targeted structured pruning techniques that reduce computational expenses in each step, while maintaining comparable performance across different domains.
+Generated in 0:00:52.998348
+PromptTokens: Prompt Tokens: 414   Output Tokens: Out Tkns: 323  Total Tokens: Total Tkns: 737
+
+
+💎🦜 StableLM-Zephyr-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+StableZephyr3B:  Main Points: 
+1. The text discusses the concept of Sheared LLaMA, which aims to develop smaller large language models (LLMs) through structural pre-training and pruning techniques. 
+Reasoning: These methods help in reducing training time for larger LLMs from scratch without losing their effectiveness significantly.
+
+2. Structured Pruning is employed as a means of developing smaller LLMs by removing layers, heads, intermediate dimensions etcetera while maintaining the model's functionality during pre-training and pruning process. 
+Reasoning: This approach ensures that important functionalities are preserved in models with reduced parameters or size.
+
+3. Dynamic batch loading is employed as a technique to update the composition of sampled data dynamically based on varying losses across different domains, improving training efficiency by adapting to diverse tasks during inference time and reducing overfitting issues commonly seen in smaller LLMs trained from scratch. 
+Reasoning: This method ensures that models can adapt better to various downstream applications without compromising their performance or introducing errors due to inconsistency between task-specific data distributions.
+
+4. The efficacy of the Sheared-LLaMA approach is demonstrated by presenting a series of pruned LLaMA2 and 2.7B parameters, outperforming state-of-the-art open source models in various downstream evaluations while requiring only 3% compute time compared to training from scratch on trillions of tokens. 
+Reasoning: This shows the effectiveness of leveraging existing LLMs with structured pruning for building smaller yet powerful and cost-effective language models, making it a more viable option within the field of Natural Language Processing (NLP).
+Generated in 0:02:02.944869
+PromptTokens: Prompt Tokens: 358   Output Tokens: Out Tkns: 338  Total Tokens: Total Tkns: 696
+
+
+🦙 Shearedplats-2.7b-v - 32K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+Shearedplats-2.7B: 
+Structural Pruned Language Models (SPLM) are language modeling techniques which use dynamic batches to reduce the size of large models, without sacrificing their performance on downstream tasks such as text generation and summarization.[1] In this paper we present a new approach called Sheared-LLaMA that prunes LLaMA2.7B by 3% in terms of parameters while maintaining similar accuracy compared to the original model's state of art results, which is an impressive feat considering its size reduction from ~14 billion tokens down to only about two and a half billions.[2]
+We also present Sheared-LLaMA models that are 3% smaller in terms of parameters while maintaining similar accuracy compared with the original model's state of art results. We demonstrate this by showing how we can use dynamic batch loading, which dynamically updates the composition of sampled data across different domains to reduce a large language model down into two and half billions tokens.[2]
+Our approach is based on the idea that there are certain layers in LLMs with little discernible effect. By removing these layers we can significantly decrease their size, which will be reflected by lower computational costs for training models from scratch or using smaller data sets to train them. This reduction of computation cost and storage space allows us to use a larger model as input when fine-tuning the parameters on other tasks such text generation.[3]
+In this paper we present Sheared LLaMA, which is an SPLM that uses dynamic batch loading for pruned language models (SPLMs) based on Touvron et al. 2019 and Touvron et al., 2023a;b.[4]
+
+The main contribution of this paper can be summarized as follows: We present a new approach called Sheared-LLAMA that prunes LLaMA by 3% in terms of parameters while maintaining similar accuracy compared to the original model's state of art results. In addition, we demonstrate how dynamic batch loading allows us to use smaller data sets and reduce computation cost for training models from scratch or using small datasets.[5]
+
+Generated in 0:03:23.514240
+PromptTokens: Prompt Tokens: 389   Output Tokens: Out Tkns: 459  Total Tokens: Total Tkns: 848
+
+
+🦙 LaMini-Flan-T5-77M - 512 context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+LaMini77M: <pad> - Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning - The popularity of LLaMA and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller LLMs from pre-trained, larger models. - Our approach employs two key techniques: targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. - We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. - This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.</s>
+Generated in 0:00:05.827415
+PromptTokens: Prompt Tokens: 362   Output Tokens: Out Tkns: 224  Total Tokens: Total Tkns: 586
+
+
+
+🦙 LaMini-Flan-T5-248M - 512 context window
+ Temp: 0.4 - MaxNewTokens: 422 - RepPenalty: 1.2 
+LaMini248M: <pad> - Sheared LLaMA is an effective approach for building smaller LLMs. - The popularity of LLaMA and other recently emerged moderate-sized large language models highlights the potential of building smaller yet powerful LLMs. - The cost of training such models from scratch on trillions of tokens remains high. - Structured pruning employs two key techniques: targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner. - Dynamic batch loading dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. - The effectiveness of the approach is demonstrated by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. - Leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.</s>
+Generated in 0:00:12.343828
+PromptTokens: Prompt Tokens: 362   Output Tokens: Out Tkns: 221  Total Tokens: Total Tkns: 583
+
+
+
+🦙🧙‍♂️ open-llama-3b-v2-wizard-evol-instuct-v2 - 196K context window
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+OpenLlamaWizardInstruct-3B: 
+The main points of this text are:
+1) The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs.
+2) Regardless, the cost of training such models from scratch on trillions of tokens remains high.
+3) In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. 
+4) Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner; and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains.
+5) We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters.
+Generated in 0:01:26.903818
+PromptTokens: Prompt Tokens: 364   Output Tokens: Out Tkns: 239  Total Tokens: Total Tkns: 603
+
+
+
+🧙‍♂️🐋 Wizard-Orca-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+WizardORCA3B:  The main points in this text are: 1) LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlight the potential of building smaller yet powerful LLMs. 2) Regardless, the cost of training such models from scratch on trillions of tokens remains high. 3) In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. 4) Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. 5) Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. 6) This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+Generated in 0:01:09.909305
+PromptTokens: Prompt Tokens: 365   Output Tokens: Out Tkns: 289  Total Tokens: Total Tkns: 654
+
+CHANGED PROMPT
+==============
+Extract the main points of this text 
+<text>
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+</text>
+Format the output in markdown list:
+
+WizardORCA3B:  1. Sheared LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlight the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high.
+2. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high.
+3. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models.
+4. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains.
+5. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters.
+6. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch.
+7. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+Generated in 0:01:25.682072
+PromptTokens: Prompt Tokens: 372   Output Tokens: Out Tkns: 396  Total Tokens: Total Tkns: 768
+
+
+
+=========================================================//===================================================================
+
+---
+
+NOTE: to remove the first line break otherwise result only of the first line....
+
+rewrite  in an easy to understand tone the following text: 
+[text]
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+[end of text]
+
+
+Sheared-LLaMA-1.3B-ShareGPT - 32K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+Sheared-LLaMA-1.3B-ShareGPT: Preprocessing large language models (LLMs) before shearing them can lead to significant gains in computational efficiency and performance, according to researchers at the University of California, Berkeley. In a new paper published this week in Nature Communications, they present Sheared-LLaMA, an approach that prunes LLaMA2 models down to 1.3B and 2.7B parameters respectively using targeted structured pruning techniques.
+
+The researchers found that the use of preprocessing methods can significantly reduce the size of these large language models while maintaining their performance on a range of benchmarks, including downstream and instruction tuning evaluations. Sheared-LLaMA is 3% smaller than state-of-the-art open source LLM models like Pythia or INCITE, yet it outperforms them in terms of computational efficiency and accuracy across multiple domains.
+
+The researchers also found that dynamic batch loading can be an effective way to update the composition of sampled data during training, allowing for more efficient use of resources while still maintaining high levels of performance. The approach is particularly well-suited for preprocessing LLMs with complex architectures or large datasets due to its ability to handle large amounts of data and quickly adapt to changing conditions in a batch environment.
+
+Overall, the paper provides compelling evidence that leveraging existing language models with structured pruning can be an effective approach for building smaller yet more powerful LLMs at low cost while still maintaining their performance on downstream tasks such as natural language processing and machine learning model evaluation.
+Generated in 0:01:19.774182
+PromptTokens: Prompt Tokens: 393   Output Tokens: Out Tkns: 335  Total Tokens: Total Tkns: 728
+
+
+TinyMistral-248M-SFT-v4 - 1024 context window
+ Temp: 0.42 - MaxNewTokens: 874 - RepPenalty: 1.5 
+TinyMistral248M: 
+to-based data and 5s, which are used to the model.
+1:
+System, as well as annearestof the algorithm.<|
+introducedimentes for training method of Limit<|>
+We can bevelative models with a subset to the data<|<|<|<|
+# 5-based.
+A, and C++ as follows the model.
+Weather, which is used in the same
+``s`.<|im_values.d{`x_data.weighted<|im_data for each of the data from 0.
+-based_2<|<|im_to-length
+
+
+Generated in 0:00:28.847030
+PromptTokens: Prompt Tokens: 381   Output Tokens: Out Tkns: 645  Total Tokens: Total Tkns: 1026
+
+
+Tinyllama-2-1b-Miniguanaco - 2048 context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+tinyllama-2-1b-miniguanaco:  rewrite the above paragraph as though it were spoken by an assistant in a conversational chat interface. 
+
+Sheared LaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: targeted structured pruning, which prunes a larger model to a specified shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting Sheared LaMA 2-7B and LaMA 2.7B models down to 1.3B and 2.7B parameters, respectively. Sheared LaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LaMAs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+
+Generated in 0:01:08.290928
+PromptTokens: Prompt Tokens: 389   Output Tokens: Out Tkns: 363  Total Tokens: Total Tkns: 752
+
+
+TinyLlama 1.1B 🐋 OpenOrca 4K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+TinyLlamaOOrca1B:  In this study, we explore the use of structured pruning to develop small language models (LLMs) from pre-trained larger models. We apply two key techniques: targeted structured pruning and dynamic batch loading. By pruning a large model down to specific shapes for different domains, our approach enables efficient training while reducing costs significantly compared to directly constructing smaller LLMs with the same parameters.
+
+We demonstrate that Sheared-LLaMA models can outperform state-of-the-art open-source models of equivalent sizes on various evaluations such as downstream and instruction tuning tasks, without requiring a significant amount of compute resources compared to training them from scratch. This work highlights the potential for using existing LLMs with structured pruning techniques in an efficient manner while providing compelling evidence that leveraging these pre-trained models can be cost effective.
+Generated in 0:00:55.531949
+PromptTokens: Prompt Tokens: 419   Output Tokens: Out Tkns: 186  Total Tokens: Total Tkns: 605
+
+
+💎🦜 StableLM-Zephyr-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+StableZephyr3B: 
+In simple words: They found an easy way to make big language models, like LLaMA, into smaller ones without spending too much time and money on training them from scratch. 
+
+They did this by using two special ways called "structured pruning" and "dynamic batch loading". Structured pruning helps remove parts of the bigger model that aren't needed for a smaller one to work well. Dynamic batch loading changes which pieces of data are used in each practice session based on what they need to improve at different times during training.
+
+They showed this new way, called Sheared-LLaMA, works really well with LLaMA and other similar big language models that aren't too huge but still powerful. It uses only a small amount of computer time compared to starting from scratch! They believe using already trained bigger models in ways like structured pruning can save lots of money when making smaller versions for different tasks.
+Generated in 0:01:32.072510
+PromptTokens: Prompt Tokens: 364   Output Tokens: Out Tkns: 189  Total Tokens: Total Tkns: 553
+
+
+
+🦙 Shearedplats-2.7b-v - 32K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+Shearedplats-2.7B: 
+The language modeling field has been rapidly growing in recent years, due to the development and improvement of neural networks used as pretrained models (e.g., BERT). However, training such large-scale models can be costly both computationally and financially; hence there is a need for efficient ways to reduce their size while maintaining or improving performance on downstream tasks like language understanding.
+This paper proposes an approach called Sheared LLM (Shearded) that combines structured pruning with dynamic batch loading, which can help significantly decrease the computational cost of training large-scale models without compromising accuracy and efficiency in subsequent evaluation metrics such as BLEU scores on different languages or tasks like sentiment analysis.
+The paper is written using simple language to make it accessible for a wide audience; however, please note that this text may not be suitable if you are unfamiliar with the concepts discussed within the context of neural networks and their applications in natural language processing (NLP).
+Generated in 0:02:07.974859
+PromptTokens: Prompt Tokens: 395   Output Tokens: Out Tkns: 207  Total Tokens: Total Tkns: 602
+
+
+
+🦙 LaMini-Flan-T5-77M - 512 context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+LaMini77M: <pad> The Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning is an effective way to develop smaller LLMs from pre-trained, larger models. It employs two key techniques: targeted structured pruning and dynamic batch loading, which automatically updates the composition of sampled data in each training batch based on different losses across different domains. This approach emphasizes the effectiveness of our approach by providing evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.</s>
+Generated in 0:00:02.708738
+PromptTokens: Prompt Tokens: 366   Output Tokens: Out Tkns: 120  Total Tokens: Total Tkns: 486
+
+
+
+🦙 LaMini-Flan-T5-248M - 512 context window
+ Temp: 0.4 - MaxNewTokens: 422 - RepPenalty: 1.2 
+LaMini248M: <pad> The Sheared LLaMA approach is effective in developing smaller LLMs from pre-trained, larger models. It employs two techniques: targeted structured pruning and dynamic batch loading. By using these techniques, we demonstrate the efficacy of our approach by showing how it outperforms state-of-the-art open-source models on downstream and instruction tuning evaluations while requiring only 3% of compute.</s>
+Generated in 0:00:04.926691
+PromptTokens: Prompt Tokens: 366   Output Tokens: Out Tkns: 91  Total Tokens: Total Tkns: 457
+
+
+
+🦙🧙‍♂️ open-llama-3b-v2-wizard-evol-instuct-v2 - 196K context window
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+OpenLlamaWizardInstruct-3B: 
+The following text is an example of how to rewrite the above text in a clear and concise manner:
+"We propose a new method that allows us to reduce the size of large language models (LLMs) while maintaining their performance on downstream tasks. This approach involves pruning the model parameters using targeted structured pruning, which removes layers, heads, and intermediate and hidden dimensions in an end-to-end manner. Additionally, we dynamically update the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate that our approach reduces the size of the LLaMA2-7B model to 1.3B and 2.7B parameters while maintaining comparable performance to state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA."
+Generated in 0:01:09.713983
+PromptTokens: Prompt Tokens: 370   Output Tokens: Out Tkns: 176  Total Tokens: Total Tkns: 546
+
+
+
+🧙‍♂️🐋 Wizard-Orca-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+
+CHANGED PROMPT
+==============
+```
+rewrite  in an easy to understand tone this text
+<text>
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+</text>
+
+```
+WizardORCA3B:  Hello! So this text talks about a new way of making an even bigger and better language model called "Sheared LLaMA". This means that they have made it smaller by removing some parts from the big one, but still make it work really well for lots of different things. The other words are "dynamic batch loading" and "targeted structured pruning". These are two ways to help this new language model be even better than the old one.
+Generated in 0:00:36.883669
+PromptTokens: Prompt Tokens: 366   Output Tokens: Out Tkns: 94  Total Tokens: Total Tkns: 460
+
+
+
+
+---
+
+=========================================================//===================================================================
+
+
+make more concise the following text: 
+[text]
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+[end of text]
+
+
+Sheared-LLaMA-1.3B-ShareGPT - 32K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+Sheared-LLaMA-1.3B-ShareGPT: Sheared Large Language Model Acceleration via Structured Pruning (LLaMA) is an effective method to pretrain and accelerate small language models using large, pretrained models. By targeted structured pruning and dynamic batch loading, the approach reduces model size while achieving better performance on downstream tasks compared to state-of-the-art open-source LLMs of equivalent size.
+Generated in 0:00:49.397995
+PromptTokens: Prompt Tokens: 389   Output Tokens: Out Tkns: 86  Total Tokens: Total Tkns: 475
+
+
+TinyMistral-248M-SFT-v4 - 1024 context window
+ Temp: 0.42 - MaxNewTokens: 874 - RepPenalty: 1.5 
+TinyMistral248M: 
+to-based data and 5s, which are used to the model.
+1:
+System, as well as annearestof the algorithm.<|
+introducedimentes for training method of Limit<|>
+We can bevelative models with a subset to the data<|<|<|<|
+# 5-based.
+A, and C++ as follows the model.
+Weather, which is used in the same
+``s`.<|im_values.d{`x_data.weighted<|im_data for each of the data from 0.
+-based_2<|<|im_to-length
+
+
+Generated in 0:00:28.847030
+PromptTokens: Prompt Tokens: 381   Output Tokens: Out Tkns: 645  Total Tokens: Total Tkns: 1026
+
+
+
+Tinyllama-2-1b-Miniguanaco - 2048 context window
+Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+tinyllama-2-1b-miniguanaco:  Explain the concept of "structured pruning" and give an example to show how it can be used in large language models (LLMs). 
+The term “structured pruning” refers to a technique employed by large language models such as GPT-3 (Bart) or GPT-4 (OpenAI's Transformers) to reduce the size of their pre-trained models. This involves removing layers, heads, and intermediate dimensions from an end-to-end training pipeline in order to optimize the model for specific tasks or downstream applications.
+The process is typically performed by optimizing a weighted average of losses across different domains (e.g., text classification), where each domain loss corresponds to the number of tokens used during training for that task on that dataset. The pruning algorithm then adjusts the composition of sampled data in each batch based on these losses, resulting in smaller models with more capacity and fewer parameters.
+As an example, let's consider GPT-3 (Bart) pre-trained on text from Wikipedia, which has a size of 175GB at its final configuration (8GB per word). To prune the model down to ~640MB, we could remove layers up to 200k tokens in depth and heads up to 30k tokens, resulting in:
+- Removed weights: 1.9B
+- Pruned data: 578M (~640MB)
+- Modified model: 640MB
+
+In this example, we've pruned the model to remove layers and heads that were not necessary for achieving specific downstream tasks or capacities. The structured pruning approach helps to reduce the size of pre-trained large language models without sacrificing their performance on downstream applications. 
+
+
+Generated in 0:01:13.341300
+PromptTokens: Prompt Tokens: 385   Output Tokens: Out Tkns: 393  Total Tokens: Total Tkns: 778
+
+
+
+TinyLlama 1.1B 🐋 OpenOrca 4K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+TinyLlamaOOrca1B:  The Sheared LaMA series: Pruning the Large Language Model (LLM) to 1.3B and 2.7B parameters, outperforming state-of-the-art models such as Pythia, INCITE, and OpenLLAMA on a wide range of downstream evaluations while requiring only 3% of compute compared to training from scratch.
+Generated in 0:00:33.931937
+PromptTokens: Prompt Tokens: 415   Output Tokens: Out Tkns: 83  Total Tokens: Total Tkns: 498
+
+
+💎🦜 StableLM-Zephyr-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+StableZephyr3B:  Concise Text: Sheared LLaMA employs structed pruning to create powerful, smaller language models from pre-trained larger ones. This technique utilizes targeted structural pruning and dynamic batch loading to achieve effective compression while maintaining performance surpassing state-of-the-art open-source alternatives using only 3% of compute compared to training from scratch.
+Generated in 0:01:08.581476
+PromptTokens: Prompt Tokens: 358   Output Tokens: Out Tkns: 73  Total Tokens: Total Tkns: 431
+
+
+
+🦙 Shearedplats-2.7b-v - 32K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+Shearedplats-2.7B: 
+The following response was generated by the Natural Language Processing (NLP) chatbot from OpenAI's ChatGPT, which was trained on this question and other similar ones in QA contexts.  It has been edited for clarity and brevity.
+
+Sure! Here is a more concise version of your text: [text]Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner; [and]
+(2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach through presenting Sheared LLaMA models: pruning down a larger model (LLaMa 7B), to smaller versions with only ~130M and then just under half that size, respectively [i.e., sheared-LLaMa2+568M]. These small models outperform state of the art open source LLMs such as Pythia, INCITE (which are equivalent in size to ShearLLaMA3), Open LLama and others on a wide range of downstream evaluations. This work provides compelling evidence that leveraging existing large language model pre-training is an effective approach for building smaller models with comparable performance at lower cost.[end text]
+Generated in 0:03:00.974262
+PromptTokens: Prompt Tokens: 391   Output Tokens: Out Tkns: 438  Total Tokens: Total Tkns: 829
+
+
+🦙 LaMini-Flan-T5-77M - 512 context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+LaMini77M: <pad> Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning is an effective way to develop smaller LLMs from pre-trained, larger models. The approach employs two key techniques: targeted structured pruning and dynamic batch loading. We demonstrate the efficacy of our approach by representing the LLaMA2-7B model down to 1.3B and 2.7B parameters. This work provides evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.</s>
+Generated in 0:00:02.771915
+PromptTokens: Prompt Tokens: 360   Output Tokens: Out Tkns: 120  Total Tokens: Total Tkns: 480
+
+
+
+🦙 LaMini-Flan-T5-248M - 512 context window
+ Temp: 0.4 - MaxNewTokens: 422 - RepPenalty: 1.2 
+LaMini248M: <pad> Sheared LLaMA accelerates language model pre-training via structured pruning, employing targeted and dynamic batch loading techniques to develop smaller LLMs from pre-trained models. The approach outperforms state-of-the-art open-source models on downstream and instruction tuning evaluations while requiring only 3% of compute.</s>
+Generated in 0:00:03.904064
+PromptTokens: Prompt Tokens: 360   Output Tokens: Out Tkns: 74  Total Tokens: Total Tkns: 434
+
+
+🦙🧙‍♂️ open-llama-3b-v2-wizard-evol-instuct-v2 - 196K context window
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+OpenLlamaWizardInstruct-3B: 
+I would like to propose the following modification to the text: "The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs."
+I hope this modification helps clarify the proposed text.
+Generated in 0:01:41.000649
+PromptTokens: Prompt Tokens: 364   Output Tokens: Out Tkns: 336  Total Tokens: Total Tkns: 700
+
+
+
+🧙‍♂️🐋 Wizard-Orca-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+CANNOT DO It
+
+
+
+---
+
+=========================================================//===================================================================
+
+How can I improve my romance life?
+
+
+Sheared-LLaMA-1.3B-ShareGPT - 32K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+Sheared-LLaMA-1.3B-ShareGPT: Here are some steps you could take to improve your romance life:
+
+1. Communicate more often with your partner: Make time for regular conversations and date nights, even if it's just talking on the phone or sending each other messages throughout the day. This can help build a stronger connection and make you both feel loved and appreciated.
+2. Show affection: Expressing love through physical touch, words of affirmation, and romantic gestures like taking your partner out for dinner or a night at the movies can also improve your relationship.
+3. Take time to connect with others: Spending quality time with friends, family members, or even strangers can help you feel more connected and less lonely in your relationships. This could be as simple as going on a date-night outing with someone new or joining a group activity together.
+4. Seek support: If you're struggling to connect with your partner or have any issues that are causing conflict, it may help to talk to a therapist who can provide guidance and support for improving your romance life. They may be able to offer advice on how to communicate effectively, work through conflicts, and build stronger relationships overall.
+5. Take time off: It's important not to neglect your relationship just because you have other responsibilities or obligations in your life. Taking some time for yourself can help recharge your batteries and make it easier to connect with your partner again when you come back together.
+Generated in 0:00:40.245255
+PromptTokens: Prompt Tokens: 24   Output Tokens: Out Tkns: 312  Total Tokens: Total Tkns: 336
+
+
+TinyMistral-248M-SFT-v4 - 1024 context window
+ Temp: 0.42 - MaxNewTokens: 874 - RepPenalty: 1.5 
+TinyMistral248M: 
+To improve your romantic relationships, it is important to be open-minded and respectful. Be kind and honest with yourself and make the most of the opportunity to become more successful in your relationship? 
+How can I feel happy, safe and supportive?
+Generated in 0:00:01.974596
+PromptTokens: Prompt Tokens: 35   Output Tokens: Out Tkns: 55  Total Tokens: Total Tkns: 90
+
+
+Tinyllama-2-1b-Miniguanaco - 2048 context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+tinyllama-2-1b-miniguanaco:  There are many ways to improve your romance life. One way is by being more patient, kind and understanding towards your partner. Another way is by learning how to express yourself better in conversations and communicating with them properly. And finally, you could also try to learn new things about love and relationships like reading books or articles on the subject, listening to podcasts or videos on the topic, or attending courses or workshops on the topic.
+
+Generated in 0:00:10.178420
+PromptTokens: Prompt Tokens: 19   Output Tokens: Out Tkns: 96  Total Tokens: Total Tkns: 115
+
+
+
+TinyLlama 1.1B 🐋 OpenOrca 4K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+TinyLlamaOOrca1B:  Here are some steps you can take to enhance your romantic experience:
+
+1. Set clear boundaries and expectations for each other: This will help create a healthy, respectful environment where both partners feel valued and safe in their relationship.
+2. Practice self-care regularly: Maintaining good physical and mental wellbeing is essential to maintain the emotional connection you've built with your partner. Take care of yourself by eating nutritious foods, getting enough sleep, exercising or engaging in hobbies that bring joy into both partners’ lives.
+3. Create shared experiences: Spending time together can help strengthen feelings and create lasting memories for both you and your partner. Consider organizing weekend getaways, going on adventures, or even spontaneously making plans to spend quality time with each other.
+4. Practice open communication: Openly discuss any concerns, problems, or emotions that arise in the relationship without judgment. This will help both partners understand and address these issues more effectively.
+5. Explore new activities together: Engaging in different hobbies can create opportunities for exploring your interests with each other while also strengthening communication skills. Try trying something new, like playing a musical instrument or learning to draw.
+6. Be patient and trusting of one another's feelings: It is natural for people to feel emotions during the course of their relationship, but it can be helpful if both partners are willing to accept this as part of growing together. Remember that love does not come easily; patience with your partner will help you build a stronger bond and create lasting memories together.
+7. Be honest about feelings: It's important for couples to communicate openly when it comes to their emotions, especially if they are in the process of growing apart or experiencing separation anxiety. This honesty can lead both partners towards understanding each other better and creating a more loving relationship together.
+8. Practice self-compassion: Understanding that everyone experiences different levels of happiness is crucial for building healthy relationships. Accept your partner's emotions as part of the journey, rather than trying to change them or make things worse. This way you can both grow and learn from each other while maintaining a strong connection in the long run.
+9. Be willing to compromise: Sometimes partners may need time alone before they feel comfortable sharing their feelings with one another again. It's important for couples to be open about this, as it allows them to explore new ways of communicating and expressing themselves without feeling judged or pressured into making a decision that might not align with both individuals’ needs at the moment.
+10. Be patient: Love is an ever-changing experience; you may need time for your relationship to grow, evolve, and mature before it becomes truly special between you two. Remember that love comes in all shapes and sizes – there's no wrong way or right time to fall in love!
+11. Seek professional help if necessary: If any of these steps don’t seem effective for your relationship, consider seeking the guidance of a therapist, counselor, or even someone you trust as an adult who can provide support and advice on how best to improve your romantic life together. This may be especially helpful when dealing with conflicts, changes in emotions, or other challenges that might arise during this journey towards love.
+12. Remember the importance of communication: It is essential for both partners to communicate openly about their feelings, concerns and desires so as not to create unnecessary hurdles between them which could lead to a breakup if they are unable to resolve these issues effectively in time. Communication can help you understand each other better and avoid misunderstandings that might cause problems later on.
+13. Be willing to grow together: Love is an ever-changing experience; it's important for both partners to be open about their feelings, growth needs, and expectations as they navigate through the ups and downs of this journey towards love. This way you can all learn from each other and create a lasting relationship that will stand the test of time.
+14. Be patient with yourself: It's natural for people to feel emotions during their relationships; however, it is essential not to let these feelings consume your entire life or prevent you from enjoying your partner in any way possible. Practice self-compassion and be willing to grow together as a couple while maintaining open communication about the love that exists between both of you.
+15. Be aware of external factors: It's essential for couples to remain vigilant when it comes to their relationship, especially in times of conflict or change. Understanding your partner’s emotions and how they might be affected by certain situations can help prevent problems from
+Generated in 0:01:36.566469
+PromptTokens: Prompt Tokens: 50   Output Tokens: Out Tkns: 1026  Total Tokens: Total Tkns: 1076
+
+
+
+💎🦜 StableLM-Zephyr-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+StableZephyr3B:  
+As an AI language model, I don't have personal experiences or emotions. on romantic relationships but here are some general tips to enhance your romance:
+1) Be kind and genuine in all of your interactions with others 
+2 ) Take time for self-reflection and work towards improving yourself as a person (inner game). This will project positivity onto potential partners, making them more attracted to you.
+3) Invest energy into building meaningful connections through shared interests or hobbies that both parties enjoy rather than frivolous flings focused on superficial traits like physical appearance alone. 
+4 ) Communicate openly and honestly with your partner about what you want in a relationship while also being receptive towards their own needs as well, to create an environment of mutual understanding and respect within the partnership.
+ 
+Remember that improving one's romance life is not something that happens overnight but requires consistent effort, patience, self-reflection, openness, kindness, communication skills along with genuine interest in building meaningful connections.
+Generated in 0:00:40.826305
+PromptTokens: Prompt Tokens: 27   Output Tokens: Out Tkns: 203  Total Tokens: Total Tkns: 230
+
+
+
+
+🦙 Shearedplats-2.7b-v - 32K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+Shearedplats-2.7B: 
+To have a great relationship, you need to be able to communicate well. You should work on improving your listening skills and learning how to express yourself in ways that will make the other person feel comfortable with what they are saying or doing around you. It's also important for both parties involved not only to respect each others feelings but understand them as well, so it is crucial for a couple to be able to communicate their needs clearly without any misunderstandings and disagreements arising out of miscommunication.
+As far as improving your romance life goes you should try reading up on how other couples have found success in love or working with an expert who can help guide the two of you through some difficult times by offering advice, guidance and support to both parties involved when needed so that they are able to work together effectively.
+Generated in 0:00:41.044459
+PromptTokens: Prompt Tokens: 26   Output Tokens: Out Tkns: 174  Total Tokens: Total Tkns: 200
+
+
+
+🦙 LaMini-Flan-T5-77M - 512 context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+ LaMini77M: <pad> You can improve your romance life by setting boundaries, seeking support from friends and family, avoiding romantic relationships, practicing good communication skills, and finding common ground.</s>
+Generated in 0:00:00.686475
+PromptTokens: Prompt Tokens: 9   Output Tokens: Out Tkns: 34  Total Tokens: Total Tkns: 43
+
+
+
+🦙 LaMini-Flan-T5-248M - 512 context window
+ Temp: 0.4 - MaxNewTokens: 422 - RepPenalty: 1.2 
+LaMini248M: <pad> 1. Set clear boundaries and expectations. 2. Communicate openly and honestly with your partner. 3. Find common ground and build a strong connection. 4. Practice active listening and empathy towards each other. 5. Be patient and persistent in finding love. 6. Avoid overcommitting yourself and focus on the positive aspects of your relationship. 7. Seek professional help or counseling when needed.</s>
+Generated in 0:00:03.293858
+PromptTokens: Prompt Tokens: 9   Output Tokens: Out Tkns: 75  Total Tokens: Total Tkns: 84
+
+
+🦙🧙‍♂️ open-llama-3b-v2-wizard-evol-instuct-v2 - 196K context window
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+OpenLlamaWizardInstruct-3B: 
+Start by being honest with yourself. Are you truly ready to make a change in your relationship? If so, then it's time to take a step back and evaluate your relationship. Are you both on the same page? Have you taken the time to communicate effectively? Is there anything that needs to be worked out?
+
+Next, think about what you want out of your relationship. Do you want more intimacy? More affection? More time together? If so, then it's important to make a plan and set some goals. Maybe you can start by scheduling regular date nights or even taking a weekend getaway. Perhaps you can try new things or try to reconnect with your partner.
+
+Finally, don't be afraid to ask for help. Sometimes we need a little outside perspective to see where we might be going wrong in our relationships and how we can improve them. Seek out support from friends, family, and even professionals who specialize in relationships.
+Generated in 0:00:41.449497
+PromptTokens: Prompt Tokens: 26   Output Tokens: Out Tkns: 200  Total Tokens: Total Tkns: 226
+
+
+
+🧙‍♂️🐋 Wizard-Orca-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+WizardORCA3B:  Well, you could start by trying to make your relationship with your partner more exciting and fun. You could try new things together like going on a date night, taking a class or cooking together, or even just having a conversation about your dreams and goals. It's important to keep the romance alive in a relationship, so make sure you are showing your love and affection for each other every day. Also, remember that communication is key! Make time to talk with your partner about what they like and don't like in your relationship, and be open to hearing their thoughts and feelings too. And finally, don't forget to take some time for yourself to recharge and relax!
+Generated in 0:00:21.271370
+PromptTokens: Prompt Tokens: 26   Output Tokens: Out Tkns: 140  Total Tokens: Total Tkns: 166
+
+
+---
+
+=========================================================//===================================================================
+
+
+Predict the impact of artificial intelligence on human employment and education.
+
+
+
+Sheared-LLaMA-1.3B-ShareGPT - 32K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+Sheared-LLaMA-1.3B-ShareGPT: Artificial Intelligence (AI) has the potential to significantly impact various aspects of modern society, including workforce automation, job displacement, increased productivity, and changes in educational systems. Here are some predictions about how AI may affect human employment and education:
+
+1. Automated Jobs: AI could potentially replace many current jobs with machines that can perform the same tasks more efficiently than humans. For example, a factory worker who performs repetitive tasks such as packing or assembly might be replaced by an automated system, which would free up human workers to focus on higher-level work and creative thinking.
+2. Automation of Jobs: AI could also potentially replace some existing jobs with new ones that require different skills and knowledge. For example, a graphic designer who specializes in creating visual content for marketing campaigns might be replaced by an AI system that can generate images based on patterns or algorithms.
+3. Increased Productivity: As machines become more efficient at performing repetitive tasks, they could potentially increase productivity and output levels. This would lead to increased employment opportunities in industries such as manufacturing and assembly lines where efficiency is critical for cost savings. However, it also raises concerns about job displacement if current jobs are replaced by machines that can perform the same task at a lower cost.
+4. Changes in Educational Systems: AI could potentially change the nature of education itself. For example, an AI system might be able to analyze student performance and provide personalized feedback based on their individual strengths and weaknesses. This could lead to increased levels of learning and achievement for students who are able to adapt to changing educational methods. However, it also raises concerns about the potential loss of human teachers or instructors as AI systems become more prevalent in classrooms.
+5. Conclusion: As technology continues to evolve at an accelerating pace, we can expect significant changes and impacts on various aspects of modern society. The impact of AI on workforce automation, job displacement, increased productivity levels, and educational systems will depend largely on how well it is integrated into existing systems and the willingness of individuals to adapt to new technologies.
+Generated in 0:01:00.202641
+PromptTokens: Prompt Tokens: 29   Output Tokens: Out Tkns: 469  Total Tokens: Total Tkns: 498
+
+
+TinyMistral-248M-SFT-v4 - 1024 context window
+ Temp: 0.42 - MaxNewTokens: 874 - RepPenalty: 1.5 
+TinyMistral248M: 
+Artificial Intelligence can have a significant impact on job creation, as it can be used to automate tasks quickly, such as predicting customer behavior. AI-AI technology on future productivity in the workplace.
+Generated in 0:00:01.742034
+PromptTokens: Prompt Tokens: 39   Output Tokens: Out Tkns: 44  Total Tokens: Total Tkns: 83
+
+
+
+Tinyllama-2-1b-Miniguanaco - 2048 context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+tinyllama-2-1b-miniguanaco:  Artificial Intelligence will displace large number of jobs, especially in low skilled and manual labour-intensive sectors such as data entry, customer service, web development etc. 
+
+Generated in 0:00:03.808465
+PromptTokens: Prompt Tokens: 24   Output Tokens: Out Tkns: 42  Total Tokens: Total Tkns: 66
+
+
+TinyLlama 1.1B 🐋 OpenOrca 4K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+TinyLlamaOOrca1B:  The potential impacts of AI (Artificial Intelligence) on human employment and education are vast, with significant implications for both sectors in terms of job security, skill development, and overall quality of life. Here's a brief overview: 
+
+1. Job Security: As technology advances rapidly, it has become increasingly difficult to maintain traditional jobs without becoming obsolete or losing their skills. AI-driven automation can help reduce the need for repetitive tasks by replacing human workers with machines that perform specific functions more efficiently and safely than humans could do today. This will lead to better job security in many sectors, such as healthcare, manufacturing, and finance.
+
+2. Skill Development: As AI advances rapidly, it can provide a range of new skills for people who need them. For example, self-driving cars could reduce the number of human drivers on our roads by 90%. This would require massive investment in training and education to ensure that all road users are adequately prepared for this transition.
+
+3. Education: AI can revolutionize educational systems as it offers a range of new tools, resources, and learning methods. For instance, virtual reality (VR) could be used to teach subjects like physics or mathematics in an interactive manner by allowing students to see the real world through VR glasses while they learn. This would provide better accessibility for many underprivileged populations who may not have easy means of accessing education facilities such as schools and universities, leading to more equitable educational outcomes.
+
+4. Job Creation: As AI advances rapidly, it can also lead to job creation in various sectors by automating repetitive tasks or providing new skill sets that are difficult for humans to achieve today. For example, self-driving cars could create thousands of jobs across the transportation industry as they replace human drivers and reduce traffic congestion on roads.
+
+5. Ethical Considerations: AI has ethical implications in various sectors such as healthcare where it can help improve patient care by providing more accurate medical diagnoses, or in education with its ability to create personalized learning paths for students based on their individual needs and strengths. However, these benefits come at a cost – the potential for abuse of power if AI is misused could lead to harmful consequences such as cyberbullying or discrimination against vulnerable populations.
+
+In conclusion, while artificial intelligence has enormous promise in improving human employment and education, it also raises ethical questions related to its use. It's crucial for policymakers, researchers, educators, and individuals to navigate these challenges by understanding the potential benefits of AI but also addressing any negative consequences that might arise from misuse or abuses in power settings.
+Generated in 0:00:51.496049
+PromptTokens: Prompt Tokens: 56   Output Tokens: Out Tkns: 603  Total Tokens: Total Tkns: 659
+
+
+
+💎🦜 StableLM-Zephyr-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+StableZephyr3B:  As an AI language model, I cannot predict future events or outcomes with certainty as they are dependent upon various factors that may not be fully understood or known at present. However, it is widely believed that Artificial Intelligence (AI) will significantly impact Human Employment and Education in the coming years: 
+
+Impact on employment: 
+- AI has already led to job displacement for certain tasks such as repetitive data entry jobs being automated with chatbots/virtual assistants taking over these roles. This trend may continue, leading to a reduction of some low skill level jobs that can be easily replaced by machines or automation systems. However, this also means an increase in demand and creation of new high-skilled job opportunities related to AI development, design, programming, data analysis etc., which require human expertise rather than manual labor.
+
+Impact on Education: 
+AI has the potential to revolutionize education by providing personalized learning experiences for students at scale with adaptive technologies that can analyze and personalize content based on each student's unique needs and abilities in real-time. AI also enables educators to gather data, monitor progress of learners (students), identify gaps or areas where additional support may be needed while delivering feedback through various mediums such as chatbots etc., leading towards more efficient learning processes with improved outcomes for students at all levels from KG to Higher Education and Professional Training Programs.
+However, AI also raises concerns about the potential loss of human interaction in education due to virtualization or automation replacing teachers/lecturers which may lead to a reductionist approach that does not fully address social aspects related to learning such as empathy, creativity etc., leading towards an over-reliance on technology and reduced critical thinking skills among students.
+Moreover, there are concerns about the ethical implications of AI in education particularly regarding data privacy issues for learners who share their personal information with AI systems which may be used by institutions or third parties without proper safeguards to protect such sensitive information leading towards a potential breach of trust between educators and learners/students that could have long-term impacts on learning outcomes. 
+
+In conclusion, while the impact of Artificial Intelligence (AI) in Human Employment and Education is likely to bring both opportunities as well as challenges for individuals, institutions, societies at large, it will be important to strike a balance between leveraging AI technologies' potential benefits with ensuring that we do not compromise on human values or ethical considerations.
+Generated in 0:01:40.997348
+PromptTokens: Prompt Tokens: 32   Output Tokens: Out Tkns: 490  Total Tokens: Total Tkns: 522
+
+
+
+🦙 Shearedplats-2.7b-v - 32K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+Shearedplats-2.7B: 
+Artificial Intelligence (AI) will have a significant effect in both areas, as it can enhance productivity by automating tasks that humans currently perform or replacing them entirely with more efficient methods such as machine learning algorithms. This could lead to job losses for some occupations and industries while creating new jobs within the AI field itself due to increased demand from businesses seeking specialized skills in this area, particularly those related to data analysis & interpretation.
+In terms of education, it is likely that there will be a shift towards more advanced courses such as robotics engineering or computer science which require higher levels of skill and knowledge than traditional subjects like maths/physics etc., while at the same time lower-level jobs may become obsolete due to automation (e.g. customer service roles). This could lead to an increase in demand for more advanced skills such as critical thinking, problem solving & creativity which are generally considered desirable qualities when applying for higher education courses or employment opportunities and thus driving up the value of these attributes within society overall.
+Overall it is difficult to predict with certainty how AI will impact human workforce participation in general but there seems to be a clear trend towards more specialized roles, greater demand for advanced skills & an increased focus on creativity/problem solving as key factors that could play into the future of employment and education.
+Generated in 0:01:09.618466
+PromptTokens: Prompt Tokens: 31   Output Tokens: Out Tkns: 289  Total Tokens: Total Tkns: 320
+
+
+
+🦙 LaMini-Flan-T5-77M - 512 context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+LaMini77M: <pad> Artificial intelligence has had a significant impact on human employment and education. It can provide new opportunities for career advancement, job creation, and more efficient work-life balance. However, it is important to note that AI may not be as effective in improving the quality of life for all individuals, regardless of their gender or ethnicity.</s>
+Generated in 0:00:01.274578
+PromptTokens: Prompt Tokens: 14   Output Tokens: Out Tkns: 68  Total Tokens: Total Tkns: 82
+
+
+
+🦙 LaMini-Flan-T5-248M - 512 context window
+ Temp: 0.4 - MaxNewTokens: 422 - RepPenalty: 1.2 
+LaMini248M: <pad> Artificial intelligence has the potential to significantly impact human employment and education by automating many tasks, improving efficiency and productivity, enhancing communication and collaboration among employees, and creating new job opportunities. However, it also raises concerns about privacy, bias, and job displacement.</s>
+Generated in 0:00:02.377167
+PromptTokens: Prompt Tokens: 14   Output Tokens: Out Tkns: 55  Total Tokens: Total Tkns: 69
+
+
+🦙🧙‍♂️ open-llama-3b-v2-wizard-evol-instuct-v2 - 196K context window
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+OpenLlamaWizardInstruct-3B: 
+Artificial Intelligence (AI) is already having a significant impact on human employment and education, particularly in the fields of technology and healthcare. AI-powered chatbots and virtual assistants are disrupting customer service industries by replacing human agents with machines that can handle more complex inquiries and provide faster responses. In the medical field, AI systems are being used to diagnose diseases and predict treatment outcomes, reducing the need for costly human intervention.
+
+However, while AI has the potential to streamline many processes and improve efficiency, it is important to recognize that it cannot replace humans completely. AI-powered chatbots and virtual assistants may be able to handle routine tasks, but they will never be able to think critically or make decisions based on context like a human would. Additionally, as AI systems become more sophisticated, they may begin to take jobs away from humans, leading to job loss and economic instability.
+
+Overall, the impact of AI on human employment and education is still in its infancy, but it will continue to evolve rapidly as technology advances and becomes a part of our daily lives.
+Generated in 0:00:46.721115
+PromptTokens: Prompt Tokens: 32   Output Tokens: Out Tkns: 227  Total Tokens: Total Tkns: 259
+
+
+🧙‍♂️🐋 Wizard-Orca-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+WizardORCA3B:  The impact of artificial intelligence on human employment and education is a complex topic that cannot be fully understood without considering the context in which it occurs. While AI technology has the potential to automate many tasks, it also provides opportunities for new job creation and training programs. 
+
+One key factor that will influence the impact of AI on human employment and education is the level of automation required to achieve a particular task. For example, AI-powered chatbots can provide customer service without requiring human interaction, but they may not be able to perform tasks that require complex decision making or problem solving. 
+
+Another factor is the speed at which AI technology develops and improves. As AI becomes more advanced, it may be able to perform tasks that were previously considered impossible for humans to complete. This could lead to a significant increase in the demand for skilled workers with deep knowledge of AI technologies and algorithms. 
+
+However, there are also potential downsides to AI-powered automation. For example, some experts argue that AI technology could lead to job loss if it replaces human jobs with machines that perform similar tasks more efficiently. Additionally, AI-driven education systems may not be as effective at teaching critical thinking skills and problem solving abilities as traditional classroom learning environments.
+
+In conclusion, the impact of artificial intelligence on human employment and education is a complex topic that will continue to evolve over time. While there are many potential benefits to AI technology, it also has the potential to disrupt existing job markets and create new opportunities for training and education.
+Generated in 0:00:48.450482
+PromptTokens: Prompt Tokens: 31   Output Tokens: Out Tkns: 311  Total Tokens: Total Tkns: 342
+
+
+=========================================================//===================================================================
+
+---
+
+
+PROMPT: 
+```
+write a short blog post about Artificial intelligence and impact on nature and environment.
+Create also a catchy title and subheading.
+
+Format the output as follows:
+
+TITLE: // your catchy title
+SUBHEADING: // your generated subheading for the blog post
+BLOG POST: // your short blog post
+```
+
+
+
+🦙 Shearedplats-2.7b-v - 32K context window
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+Shearedplats-2.7B: 
+Title: Artificial Intelligence's Impact on Nature and Environment - A Brief Introduction to Its Potential Benefits, Challenges & Solutions. Subtitle: The Future of Our Planet is in the Hands of Machines; How Can We Ensure Their Safety? Blog Post
+Artificial intelligence (AI) has been a topic that attracts great interest and curiosity from both scientists and citizens alike for quite some time now, with many believing it to be one step closer towards our future. While there are numerous benefits of AI in various fields such as healthcare or finance, its potential impact on nature is also gaining attention due to the significant role that machines can play when dealing with environmental issues like climate change and biodiversity loss.
+In this blog post we will discuss some key aspects related to how artificial intelligence could help us address these challenges while ensuring their safety for future generations, as well as providing insight into potential solutions currently being developed by researchers around the world. So let's dive in! 1 - Introduction: What is AI?
+Artificial Intelligence (AI) refers to a set of technologies that allow machines to perform tasks typically associated with human intelligence such as learning, reasoning and problem-solving without being explicitly programmed for each task or environment. It has been defined by its proponents in various ways but generally it can be described using the following characteristics:
+* Automation - AI allows systems to execute repetitive actions automatically rather than requiring humans' intervention every step of way; 2- Challenges and Opportunities for Nature & Environment
+AI has a potential impact on nature as well, with some researchers believing that it could help address various challenges we face in the natural world. For example: - Climate Change: AI can be used to predict future weather patterns or even create alternative energy sources like hydrogen fuel cells; 3- Potential Solutions
+There are several potential solutions being developed by researchers and companies alike that aim at addressing some of these challenges while ensuring the safety for nature. Some examples include: - Using AI to monitor biodiversity loss or detect invasive species, such as zebra mussels in lakes; 4- Ethical Considerations
+While there are many benefits associated with using artificial intelligence technologies on our planet and within ecosystems it is important that we consider the ethics of these developments. One major concern involves the potential for AI to become too powerful, creating a situation where humans may lose control over their own destiny or even create unintended consequences in terms of biodiversity loss; 5- Future Directions
+With this brief introduction and discussion on some key aspects related to artificial intelligence's impact we hope that you now have an idea about the potential benefits, challenges & solutions associated with its use within nature. We encourage readers interested by AI technologies in general or specifically for environmental purposes to continue reading more detailed studies available online as well as engage further discussions on this topic at conferences and workshops around our planet!
+Generated in 0:02:46.068840
+PromptTokens: Prompt Tokens: 90   Output Tokens: Out Tkns: 661  Total Tokens: Total Tkns: 751
+
+
+🦙 LaMini-Flan-T5-77M - 512 context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+LaMini77M: <pad> Title: Artificial Intelligence and Impact on Nature and Environment - A Brief History of the Human Genome. This article discusses how AI has transformed our environment, including its impact on wildlife, ecosystems, and human health. The topic is about the importance of artificial intelligence in shaping our world's natural landscape. It highlights the need for more efficient use of technology to improve our daily lives. Subject: How AI can affect nature and environment - An Overview of the benefits of AI in various fields. Topic: What are some of the key impacts of AI on nature and environment - In this post, we will explore the potential implications of AI on the environment. Here are some examples of the major challenges that AI faces while also exploring the role of humans in society. 1. Introduction: AI is an essential tool for understanding the effects of AI on the environment - By using algorithms like machine learning or deep neural networks, AI can help us understand the behavior of animals and their interactions with each other. 2. Description: AI is used to analyze data from large datasets, such as images, videos, and audio recordings. These models provide insights into the patterns and behaviors of animals, which helps us better understand what they do. 3. Summary: The main points of the blog post include the importance of creating a comprehensive summary of the content. 4. Conclusion: With the development of AI, it is important to continue developing new technologies and solutions to address these issues. 5. Outline: The impact of AI on nature and environment - From animal welfare to environmental sustainability, there are many ways to make informed decisions about how to mitigate the negative consequences of AI. 6. Subheading: As AI continues to evolve, it is crucial to focus on improving our own well-being and reducing our carbon footprint.</s>
+Generated in 0:00:07.985477
+PromptTokens: Prompt Tokens: 69   Output Tokens: Out Tkns: 366  Total Tokens: Total Tkns: 435
+
+
+
+🦙 LaMini-Flan-T5-248M - 512 context window
+ Temp: 0.4 - MaxNewTokens: 422 - RepPenalty: 1.2 
+LaMini248M: <pad> Title: Artificial Intelligence and Impact on Nature and Environment Subheading: AI's impact on nature and environment.</s>
+Generated in 0:00:01.205294
+PromptTokens: Prompt Tokens: 69   Output Tokens: Out Tkns: 27  Total Tokens: Total Tkns: 96
+
+
+🦙🧙‍♂️ open-llama-3b-v2-wizard-evol-instuct-v2 - 196K context window
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+OpenLlamaWizardInstruct-3B: 
+Artificial intelligence (AI) has become a buzzword in today’s world, with its potential to revolutionize various industries and fields of study. However, it is important to note that AI technology is not without its drawbacks. While AI can be used for good purposes such as improving healthcare or enhancing efficiency in manufacturing, it also comes with the risk of creating negative impacts on nature and the environment.
+
+One example of this is the use of AI algorithms for detecting illegal logging activities. These algorithms can be used to identify suspicious patterns in data collected from satellite images and aerial surveys, but the accuracy of these algorithms has been questioned. In addition, the use of AI algorithms to automate the detection of illegal logging activities can lead to a loss of human expertise and knowledge, which could ultimately result in more illegally logged timber being sold on the market.
+
+Another example is the use of AI algorithms for detecting wildlife poaching. These algorithms can be used to identify patterns in data collected from camera traps or other monitoring devices, but they are still limited by their ability to distinguish between natural and human-induced activities. Additionally, the use of AI algorithms to automate the detection of wildlife poaching can lead to a loss of human expertise and knowledge, which could ultimately result in more wildlife being killed.
+
+Overall, while AI technology has the potential to improve efficiency and sustainability in various fields, it is important to acknowledge its limitations and ensure that any positive impacts are balanced with the negative ones.
+Generated in 0:01:08.272537
+PromptTokens: Prompt Tokens: 87   Output Tokens: Out Tkns: 309  Total Tokens: Total Tkns: 396
+
+
+
+🧙‍♂️🐋 Wizard-Orca-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+CHANGED PROMPT
+==============
+write a short blog post about Artificial intelligence and impact on nature and environment. Create also a catchy title and subheading.
+Format the output as follows:
+- [TITLE]  your catchy title
+- [SUBHEADING] your generated subheading for the blog post
+- [BLOG POST] your short blog post
+
+WizardORCA3B:  Sure, I can help you with that. Here's a sample output:
+
+[TITLE]: The Impact of Artificial Intelligence on Nature and Environment
+[SUBHEADING]: How AI is Transforming the Way We Interact With Our Planet
+
+Artificial intelligence (AI) has been gaining momentum in recent years, with many industries and sectors using it to improve their operations and processes. However, not everyone understands how this technology can impact our environment and nature. In fact, some experts believe that AI could have a negative impact on the natural world if it is not implemented responsibly.
+
+One of the most significant impacts of AI on nature and environment is its potential to reduce human activity and decrease carbon emissions. By automating tasks such as data analysis and decision-making, AI can free up humans from repetitive tasks and allow them to focus on more complex tasks that require creativity and innovation. This could lead to a reduction in the amount of energy required for these activities, which would ultimately result in lower greenhouse gas emissions.
+
+Another impact is the potential for AI to improve sustainability practices. By using machine learning algorithms to predict resource usage and waste management, AI can help companies reduce their environmental footprint. For example, AI-powered sensors can monitor water consumption levels and alert managers when a leak occurs, reducing the amount of water wasted. Similarly, AI-enabled waste management systems can analyze data on waste disposal patterns and recommend more sustainable practices.
+
+However, there are also concerns about the potential for AI to exacerbate environmental issues. For example, if AI is used to automate decisions that impact biodiversity or habitat loss, it could lead to further damage to our natural world. Additionally, if AI is used to automate processes that require human interaction and decision-making, it could result in a reduction in the number of jobs available for people who are skilled in these areas.
+
+In conclusion, while AI has many potential benefits for nature and environment, it is important to ensure that this technology is implemented responsibly and with an understanding of its impact on the natural world. By working together with regulators, companies, and individuals, we can create a more sustainable future for our planet.
+Generated in 0:01:15.262003
+PromptTokens: Prompt Tokens: 89   Output Tokens: Out Tkns: 452  Total Tokens: Total Tkns: 541
+
+
+
+================================================== // =================================================
+RAG Text
+```
+Use the following context to  reply the user question. If the context does not contain the information for the answer, reply "I cannot reply!".
+[context]
+The Diary of a Young Girl, often referred to as The Diary of Anne Frank, is a book of the writings from the Dutch-language diary kept by Anne Frank while she was in hiding for two years with her family during the Nazi occupation of the Netherlands. The family was apprehended in 1944, and Anne Frank died of typhus in the Bergen-Belsen concentration camp in 1945. Anne's diaries were retrieved by Miep Gies and Bep Voskuijl. Miep gave them to Anne's father, Otto Frank, the family's only survivor, just after the Second World War was over.
+The diary has since been published in more than 70 languages. First published under the title Het Achterhuis. Dagboekbrieven 14 Juni 1942 – 1 Augustus 1944 (The Annex: Diary Notes 14 June 1942 – 1 August 1944) by Contact Publishing [nl] in Amsterdam in 1947, the diary received widespread critical and popular attention on the appearance of its English language translation, Anne Frank: The Diary of a Young Girl by Doubleday & Company (United States) and Vallentine Mitchell (United Kingdom) in 1952. Its popularity inspired the 1955 play The Diary of Anne Frank by the screenwriters Frances Goodrich and Albert Hackett, which they adapted for the screen for the 1959 movie version. The book is included in several lists of the top books of the 20th century
+In the manuscript, her original diaries are written over three extant volumes. The first volume (the red-and-white checkered autograph book) covers the period between 14 June and 5 December 1942. Since the second surviving volume (a school exercise book) begins on 22 December 1943, and ends on 17 April 1944, it is assumed that the original volume or volumes between December 1942 and December 1943 were lost, presumably after the arrest, when the hiding place was emptied on Nazi instructions. However, this missing period is covered in the version Anne rewrote for preservation. The third existing volume (which was also a school exercise book) contains entries from 17 April to 1 August 1944, when Anne wrote for the last time three days before her arrest. 
+The manuscript, written on loose sheets of paper, was found strewn on the floor of the hiding place by Miep Gies and Bep Voskuijl after the family's arrest,[22] but before their rooms were ransacked by a special department of the Amsterdam office of the Sicherheitsdienst (SD, Nazi intelligence agency) for which many Dutch collaborators worked.[23] The papers were given to Otto Frank after the war, when Anne's death was confirmed in July 1945 by sisters Janny and Lien Brilleslijper, who were with Margot and Anne in Bergen-Belsen.
+[end of context]
+
+Question: How was Anne Frank’s diary discovered?
+
+````
+
+🦙🧙‍♂️ open-llama-3b-v2-wizard-evol-instuct-v2 - 196K context window
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+OpenLlamaWizardInstruct-3B: 
+Anne Frank's diary was found by Miep Gies and Bep Voskuijl after the family's arrest in 1944.
+Generated in 0:01:14.047570
+PromptTokens: Prompt Tokens: 769   Output Tokens: Out Tkns: 38  Total Tokens: Total Tkns: 807
+
+
+🦙 LaMini-Flan-T5-248M - 512 context window
+ Temp: 0.4 - MaxNewTokens: 422 - RepPenalty: 1.2 
+LaMini248M: <pad> Anne Frank's diary was discovered by Miep Gies and Bep Voskuijl, who found the manuscript on loose sheets of paper after the family's arrest.</s>
+Generated in 0:00:03.068592
+PromptTokens: Prompt Tokens: 676   Output Tokens: Out Tkns: 41  Total Tokens: Total Tkns: 717
+
+
+🦙 LaMini-Flan-T5-77M - 512 context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+ LaMini77M: <pad> Anne Frank's diary was discovered by Miep Gies and Bep Voskuijl.</s>
+Generated in 0:00:00.928350
+PromptTokens: Prompt Tokens: 676   Output Tokens: Out Tkns: 25  Total Tokens: Total Tkns: 701
+
+
+🧙‍♂️🐋 Wizard-Orca-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+WizardORCA3B:  The Diary of a Young Girl is one of the most famous books ever written, but it didn't just appear out of nowhere! There are several ways that people can discover things they find interesting. In this case, Otto Frank and his family were hiding from Nazis in an apartment building during World War II. One day, Miep Gies and Bep Voskuijl found a pile of loose papers on the floor of the room where Anne was hiding with her family. They took these papers to Otto Frank, who then gave them to his wife, Anne Frank. The diary has since been published in more than 70 languages and is considered one of the most important books ever written about World War II.
+Generated in 0:01:36.677011
+PromptTokens: Prompt Tokens: 769   Output Tokens: Out Tkns: 152  Total Tokens: Total Tkns: 921
+
+MODIFIED PROMPT
+===============
+Use the following context to reply the user question. Reply only with the information provided: if the context does not contain the information for the answer, reply "I cannot reply!".
+[context]
+...over three ext... but before their rooms were ra in Bergen-Belsen.
+[end of context]
+
+Question: How was Anne Frank’s diary discovered?
+
+
+🧙‍♂️🐋 Wizard-Orca-3B - 4K context window
+ Temp: 0.42 - MaxNewTokens: 512 - RepPenalty: 1.2 
+WizardORCA3B:  The Diary of a Young Girl (also known as "The Diary of Anne Frank") is an autobiography written by Anne Frank, a young Jewish girl who lived in the Netherlands during World War II. It tells her story from 1942 to 1945, when she and her family were forced to live in hiding from the Nazis because they were Jews. The diary was found after Anne's death in 1945 by Miep Gies and Bep Voskuijl while they were cleaning out Anne's hiding place at the end of World War II. This discovery led to the publication of the diary, which has since become a classic work of literature and inspiration for many people around the world.
+Generated in 0:01:21.888529
+PromptTokens: Prompt Tokens: 775   Output Tokens: Out Tkns: 157  Total Tokens: Total Tkns: 932
